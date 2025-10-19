@@ -5,4 +5,5 @@ I was selected among a limited cohort of students across India for Amazon ML Sum
 
 Through interactive sessions with Amazon scientists, I strengthened my understanding of statistical foundations, model evaluation, and real-world ML applications. The experience enhanced my problem-solving approach and gave me valuable insight into how Amazon leverages ML at scale.
 
-[📄 View my Amazon ML Summer School 2025 Certificate (PDF)](.pdf)
+[![PDF Preview](path/to/preview_image.png)](path/to/yourfile.pdf)
+
